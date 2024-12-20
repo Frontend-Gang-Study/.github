@@ -9,5 +9,5 @@
 
 ## 책
 
-- [우아한 타입스크립트 with 리액트](https://github.com/Frontend-Gang-Study/modern-javascript-deep-dive) ~~완료~~
+- [우아한 타입스크립트 with 리액트](https://github.com/Frontend-Gang-Study/modern-javascript-deep-dive) 완료 ✅
 - [모던 자바스크립트 딥 다이브](https://github.com/Frontend-Gang-Study/modern-javascript-deep-dive) **절찬리 모집 중**
